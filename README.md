@@ -44,8 +44,7 @@ After import your own package you have to insert a line:
 
 example:
 
-``# IMPORT 
-from lib.your_package_folder_1.package_1.py import * # END_IMPORT``
+``# IMPORT \n from lib.your_package_folder_1.package_1.py import * \n# END_IMPORT``
 
 Do not forget to init your packages with ``__init__.py``
 
