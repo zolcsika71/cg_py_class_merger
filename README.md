@@ -21,6 +21,16 @@ Install it by downloading the package from
         any_project/ # for example 'mars_lander'
      
 
+Before import your own package you have to insert a line # IMPORT
+After import your own package you have to insert a line # END_IMPORT
+
+example:
+
+# IMPORT
+from lib.classes.matrix_ import *
+# END_IMPORT
+
+
 In any_project folder (mars_lander for example) simply run build xxx.py, or define a file watcher in your IDE.
 
 Output will be cg.py in your any_project folder
