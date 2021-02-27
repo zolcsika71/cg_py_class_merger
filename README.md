@@ -16,6 +16,7 @@ Install it by downloading the package from
 
         lib/
              your_packages/
+               your_package
              cg_py_class_merger/
         
         any_project/ # for example 'mars_lander'
@@ -33,13 +34,15 @@ example:
 
 ``# IMPORT``
 
-from lib.classes.matrix_ import *
+from lib.``your_packages`.your_package` import *
 
 ``# END_IMPORT``
 
+Do not forget to init your packages with ``__init__.py``
+
 In any_project folder (mars_lander for example) simply run ``build xxx.py``, or define a file watcher in your IDE.
 
-Output will be cg.py in your ``any_project`` folder
+Output will be ``cg.py`` in your ``any_project`` folder
 
 ## Issues
 
