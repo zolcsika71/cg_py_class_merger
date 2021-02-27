@@ -37,11 +37,11 @@ Install it by downloading the package from
 
 Example: https://github.com/zolcsika71/CodeInGames_PY 
 
-Before import your own package you have to insert a line
+Before import your own package you have to insert a line:
 
 ``# IMPORT``
 
-After import your own package you have to insert a line
+After import your own package you have to insert a line:
 
 ``# END_IMPORT``
 
@@ -49,7 +49,7 @@ example:
 
 ``# IMPORT``
 
-from lib.``your_packages.your_package`` import *
+from lib.``your_package_folder_1.package_1.py`` import *
 
 ``# END_IMPORT``
 
