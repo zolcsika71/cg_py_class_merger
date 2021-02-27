@@ -23,11 +23,11 @@ Install it by downloading the package from
 
 Before import your own package you have to insert a line
 
-# IMPORT
+``# IMPORT``
 
 After import your own package you have to insert a line
 
-# END_IMPORT
+``# END_IMPORT``
 
 example:
 
