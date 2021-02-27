@@ -35,7 +35,7 @@ Install it by downloading the package from
         any_project/ # for example 'ClashOfCodes'
 
 
-        example: https://github.com/zolcsika71/CodeInGames_PY     
+Example: https://github.com/zolcsika71/CodeInGames_PY 
 
 Before import your own package you have to insert a line
 
