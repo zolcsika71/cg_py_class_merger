@@ -1,4 +1,4 @@
-# CodInGame Python Multi-file Script
+# codInGame Python Multi-file Script
 
 Minimally forked from https://github.com/devYaoYH/cg_pyEnv 
 
@@ -12,7 +12,7 @@ Install it by downloading the package from
 ## Sample Workflow
 **project structure:**
 
-    codeInGame/
+    codingame/
 
         lib/
              your_packages/
