@@ -34,7 +34,7 @@ example:
 
 ``# IMPORT``
 
-from lib.``your_packages`.your_package` import *
+from lib.``your_packages`.your_package`` import *
 
 ``# END_IMPORT``
 
