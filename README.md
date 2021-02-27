@@ -12,7 +12,7 @@ Install it by downloading the package from
 ## Sample Workflow
 **project structure:**
 
-    codInGame/
+    codeInGame/
 
         lib/
              your_packages/
