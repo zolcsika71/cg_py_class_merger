@@ -10,17 +10,32 @@ Install it by downloading the package from
  ``github`` and running ``pip install <folder where cg_py_class_merger is located>``
 
 ## Sample Workflow
-**project structure:**
+**Project structure:**
 
     codingame/
 
         lib/
-             your_packages/
-               your_package
-             cg_py_class_merger/
-        
-        any_project/ # for example 'mars_lander'
+            __init__.py
+            your_package_folder_1/
+               __init__.py
+               package_1.py
      
+            your_package_folder_2/
+               __init__.py
+               package_2.py
+
+            cg_py_class_merger/
+               cg_py_class_merger/
+                  __init__.py
+                  build.py
+               README.md
+               setup.py
+
+        
+        any_project/ # for example 'ClashOfCodes'
+
+
+        example: https://github.com/zolcsika71/CodeInGames_PY     
 
 Before import your own package you have to insert a line
 
@@ -40,7 +55,7 @@ from lib.``your_packages.your_package`` import *
 
 Do not forget to init your packages with ``__init__.py``
 
-In any_project folder (mars_lander for example) simply run ``build mars_lander.py``, or define a file watcher in your IDE.
+In ``any_project`` folder (ClashOfCodes for example) simply run ``build coc.py``, or define a file watcher in your IDE.
 
 Output will be ``cg.py`` in your ``any_project`` folder
 
