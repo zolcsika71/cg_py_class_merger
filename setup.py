@@ -11,10 +11,10 @@ sys.path.insert(0, str(current_dir))
 setup(
     name='cg_py_class_merger',
     version='0.1.0',
-    description='CodeInGame Merger (merges files from import',
+    description='CG Merger (merges files from import',
     url='https://github.com/zolcsika71/cg_py_class_merger',
     author='zolcsika71',
-    keywords='codeInGame, merge',
+    keywords='codingame, merge',
     packages=find_packages(exclude=["tests*"]),
     python_requires=">=3.5, <4",
     install_requires=['chardet>=3.0.4,<4.0.0'],
