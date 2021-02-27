@@ -14,7 +14,7 @@ setup(
     description='CodInGame Merger (merges files from import',
     url='https://github.com/zolcsika71/cg_py_class_merger',
     author='zolcsika71',
-    keywords='codInGame, merge',
+    keywords='codeInGame, merge',
     packages=find_packages(exclude=["tests*"]),
     python_requires=">=3.5, <4",
     install_requires=['chardet>=3.0.4,<4.0.0'],
