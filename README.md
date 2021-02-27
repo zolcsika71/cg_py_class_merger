@@ -26,10 +26,9 @@ After import your own package you have to insert a line # END_IMPORT
 
 example:
 
-# IMPORT
+``# IMPORT``
 from lib.classes.matrix_ import *
-# END_IMPORT
-
+``# END_IMPORT``
 
 In any_project folder (mars_lander for example) simply run build xxx.py, or define a file watcher in your IDE.
 
