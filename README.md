@@ -21,8 +21,13 @@ Install it by downloading the package from
         any_project/ # for example 'mars_lander'
      
 
-Before import your own package you have to insert a line # IMPORT
-After import your own package you have to insert a line # END_IMPORT
+Before import your own package you have to insert a line
+
+# IMPORT
+
+After import your own package you have to insert a line
+
+# END_IMPORT
 
 example:
 
