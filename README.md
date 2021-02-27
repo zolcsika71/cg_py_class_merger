@@ -55,7 +55,7 @@ from lib.``your_package_folder_1.package_1.py`` import *
 
 Do not forget to init your packages with ``__init__.py``
 
-In ``any_project`` folder (ClashOfCodes for example) simply run ``build coc.py``, or define a file watcher in your IDE.
+In ``any_project`` folder (ClashOfCodes for example) simply run ``build <filename>.py``, or define a file watcher in your IDE.
 
 Output will be ``cg.py`` in your ``any_project`` folder
 
