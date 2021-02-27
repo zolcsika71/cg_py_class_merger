@@ -11,7 +11,7 @@ sys.path.insert(0, str(current_dir))
 setup(
     name='cg_py_class_merger',
     version='0.1.0',
-    description='CodInGame Merger (merges files from import',
+    description='CodeInGame Merger (merges files from import',
     url='https://github.com/zolcsika71/cg_py_class_merger',
     author='zolcsika71',
     keywords='codeInGame, merge',
