@@ -4,12 +4,12 @@ Minimally forked from https://github.com/devYaoYH/cg_pyEnv
 
 Simple script to collect python class definitions across multiple files with `build <file>`.
 
-## Installation
+## Installation:
 
 Install it by downloading the package from 
  ``github`` and running ``pip install <folder where cg_py_class_merger is located>``
 
-## Sample Workflow
+## Sample Workflow:
 **Project structure:**
 
     codingame/
