@@ -54,7 +54,7 @@ Do not forget to init your packages with ``__init__.py``
 
 In ``any_project`` folder (ClashOfCodes for example) simply run ``build <filename>.py``, or define a file watcher in your IDE.
 
-Example: https://github.com/zolcsika71/CodeInGames_PY
+Examples: https://github.com/zolcsika71/CodeInGames_PY
 
 Output will be ``cg.py`` in your ``any_project`` folder
 
