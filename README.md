@@ -49,7 +49,7 @@ example:
 
 ``# IMPORT``
 
-from lib.``your_package_folder_1.package_1.py`` import *
+from lib.your_package_folder_1.package_1.py import *
 
 ``# END_IMPORT``
 
