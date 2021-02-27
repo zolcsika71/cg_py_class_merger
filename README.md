@@ -40,7 +40,7 @@ from lib.``your_packages.your_package`` import *
 
 Do not forget to init your packages with ``__init__.py``
 
-In any_project folder (mars_lander for example) simply run ``build xxx.py``, or define a file watcher in your IDE.
+In any_project folder (mars_lander for example) simply run ``build mars_lander.py``, or define a file watcher in your IDE.
 
 Output will be ``cg.py`` in your ``any_project`` folder
 
