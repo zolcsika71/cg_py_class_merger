@@ -42,6 +42,25 @@ Do not forget to init your packages with ``__init__.py``
 
 In ``any_project`` folder (ClashOfCodes for example) simply run ``build <filename>.py``, or define a file watcher in your IDE.
 
+PyCharm config for file watcher:
+
+``<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectTasksOptions">
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="$FileName$" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ALWAYS" />
+      <option name="fileExtension" value="py" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="CG_merger" />
+      <option name="output" value="" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />``
+
 Output will be ``cg.py`` in your ``any_project`` folder
 
 Examples: https://github.com/zolcsika71/CodeInGames_PY
