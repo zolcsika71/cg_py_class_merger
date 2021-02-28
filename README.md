@@ -34,19 +34,11 @@ Install it by downloading the package from
         
         any_project/ # for example 'ClashOfCodes'
 
-Before import your own package you have to insert a line:
-
-``# IMPORT``
-
-After import your own package you have to insert a line:
-
-``# END_IMPORT``
-
 example:
 
       # IMPORT
       from lib.your_package_folder_1.package_1.py import *
-      END_IMPORT
+      # END_IMPORT
 
 Do not forget to init your packages with ``__init__.py``
 
