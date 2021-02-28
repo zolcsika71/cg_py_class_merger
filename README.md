@@ -1,7 +1,5 @@
 # CG Python Multi-file Script
 
-Minimally forked from https://github.com/devYaoYH/cg_pyEnv 
-
 Simple script to collect python class definitions across multiple files with `build <file>`.
 
 ## Installation:
