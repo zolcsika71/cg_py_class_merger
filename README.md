@@ -44,7 +44,7 @@ In ``any_project`` folder (ClashOfCodes for example) simply run ``build <filenam
 
 PyCharm config for file watcher:
 
-``<?xml version="1.0" encoding="UTF-8"?>
+`<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectTasksOptions">
     <TaskOptions isEnabled="true">
@@ -59,7 +59,7 @@ PyCharm config for file watcher:
       <option name="outputFilters">
         <array />
       </option>
-      <option name="outputFromStdout" value="false" />``
+      <option name="outputFromStdout" value="false" />`
 
 Output will be ``cg.py`` in your ``any_project`` folder
 
